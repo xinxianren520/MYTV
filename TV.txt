@@ -155,7 +155,7 @@ CETV4 8M,http://111.40.196.27:443/0000000000001000/5000000011000031126/index.m3
 黑龙江卫视 4M,http://111.40.196.27:443/0000000000001000/5000000010000031107/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000031107
 黑龙江卫视 8M,http://111.40.196.27:443/0000000000001000/1000000001000001925/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000001925
 黑龙江卫视 8M,http://111.40.196.27:443/0000000000001000/6000000001000016510/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000001000016510
-秒看TV,#genre#
+港澳台,#genre#
 翡翠台,tvbus://4d3SqDabh2a6UV4qgbN4tRUZmSYF7rXws7b9LY1gpy39dDU2nK
 无线新闻台,tvbus://3evy6CsmpNykm7tDRnZJhVhUHToPpEGnGyREkE2Yu8X3EPgnPx
 Now 新闻台,tvbus://4VDtZGrPTbAiPGNG5hjua2hM925H5nWvDwyP6w7SiB3Y7WqDiX
